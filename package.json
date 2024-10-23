@@ -1,0 +1,11 @@
+{
+  "name": "TP03Estiam",
+  "version": "1.0.0",
+  "description": "A simple Hello World Node.js app for estiam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Soukayna El Hajjaoui ",
+  "license": "ISC"
+}
