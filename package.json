@@ -1,11 +1,14 @@
 {
-  "name": "TP03Estiam",
+  "name": "hello-world-app",
   "version": "1.0.0",
-  "description": "A simple Hello World Node.js app for estiam",
+  "description": "A simple Hello World Node.js app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Soukayna El Hajjaoui ",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  },
+  "author": "Your Name",
   "license": "ISC"
 }
